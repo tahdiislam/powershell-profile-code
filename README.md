@@ -6,7 +6,7 @@
 <code>Import-Module -Name Terminal-Icons</code>
 <code>Import-Module -Name PSReadLine</code>
 
-</code>Set-PSReadLineOption -PredictionSource History
+<code>Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Windows
 </code>
